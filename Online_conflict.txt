@@ -1,2 +1,6 @@
 Oh no! a conflict!!
+<<<<<<< HEAD
 pizza
+=======
+cake
+>>>>>>> master
