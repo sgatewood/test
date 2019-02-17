@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Oh no! a conflict!!!
 chocolate
+=======
+Oh no! a conflict!!!!
+cookies
+>>>>>>> master
